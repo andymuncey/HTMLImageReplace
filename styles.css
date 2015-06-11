@@ -1,0 +1,7 @@
+h1 span{
+display:none;}
+
+h1{width:960px;
+height:144px;
+background-image: url('images/EpicHeader.png');
+}
